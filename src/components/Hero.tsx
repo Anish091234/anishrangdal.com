@@ -124,10 +124,10 @@ export default function Hero() {
           <h1 className="mt-9 text-[clamp(2.65rem,6vw,5.5rem)] font-semibold leading-[1.08] tracking-[-0.025em] text-white [word-spacing:0.06em]">
             <span className="hero-line block opacity-0">Hi, I&apos;m Anish.</span>
             <span className="hero-line block opacity-0 text-white/46">
-              Engineering the next
+              Making humanity
             </span>
             <span className="hero-line block opacity-0 text-white/46">
-              frontier in space.
+              multiplanetary.
             </span>
           </h1>
 
